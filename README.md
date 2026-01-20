@@ -1,6 +1,6 @@
 # LocalChefBazaar 🍳 — Marketplace for Local Home-Cooked Meals
 
-**Live Demo:local-chef-bazar.netlify.app** 
+**Live Demo: [local-chef-bazar.netlify.app](https://local-chef-bazar.netlify.app)** 
 
 ## Project Overview
 
