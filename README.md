@@ -1,7 +1,5 @@
 # LocalChefBazaar 🍳
 
-![LocalChefBazaar Banner](https://via.placeholder.com/1200x300/0ea5e9/ffffff?text=LocalChefBazaar+-+Marketplace+for+Home-Cooked+Meals)
-
 ## 🌐 Live Demo
 **[Visit LocalChefBazaar →](https://local-chef-bazar.netlify.app)**
 
@@ -222,19 +220,6 @@ The backend API will be running on:
 ```
 http://localhost:5000
 ```
-
----
-
-## 📸 Screenshots
-
-### Homepage
-![Homepage](https://via.placeholder.com/800x400/0ea5e9/ffffff?text=Add+Your+Homepage+Screenshot)
-
-### Meal Details
-![Meal Details](https://via.placeholder.com/800x400/0ea5e9/ffffff?text=Add+Meal+Details+Screenshot)
-
-### Chef Dashboard
-![Chef Dashboard](https://via.placeholder.com/800x400/0ea5e9/ffffff?text=Add+Chef+Dashboard+Screenshot)
 
 ---
 
